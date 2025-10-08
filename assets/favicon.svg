@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .green{stroke:#00c853;fill:none;stroke-width:3;stroke-linecap:square}
+      .white{stroke:#fff;fill:none;stroke-width:3;stroke-linecap:square}
+      .textL{fill:#fff;font:700 28px "Inter","Segoe UI",Arial,sans-serif}
+      .textR{fill:#00c853;font:500 28px "Inter","Segoe UI",Arial,sans-serif}
+    </style>
+  </defs>
+
+  <!-- base fill -->
+  <circle cx="32" cy="32" r="31" fill="#000"/>
+
+  <!-- arcs fully inside so white stays visible on white bg -->
+  <path d="M32 2.5 A29.5 29.5 0 0 0 32 61.5" class="white"/>
+  <path d="M32 2.5 A29.5 29.5 0 0 1 32 61.5" class="green"/>
+
+  <!-- vertical diameter shortened to match inset arcs -->
+  <line x1="32" y1="2.5" x2="32" y2="61.5" class="green"/>
+
+  <!-- symbols centered in halves -->
+  <text x="18.42" y="33.005" text-anchor="middle" dominant-baseline="middle" class="textL">=</text>
+  <text x="46.61" y="31.987" text-anchor="middle" dominant-baseline="middle" class="textR">π</text>
+  
+  <!-- thicker outer ring (≈2x), inset to avoid clipping -->
+  <circle cx="32" cy="32" r="30.8" fill="none" stroke="#000000" stroke-width="1"/>
+
+
+</svg>
