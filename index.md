@@ -2,7 +2,7 @@
 layout: default
 title: Cribb Tutoring
 ---
-# One-to-one tutoring for high schoolers
+# One-on-one tutoring
 
 - Algebra • Geometry • Precalculus • **AP Calculus**
 - **AP Physics** • Chemistry
