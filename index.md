@@ -2,25 +2,29 @@
 layout: default
 title: Cribb Tutoring
 ---
-# One-on-one tutoring
 
-- Algebra • Geometry • Precalculus • **AP Calculus**
-- **AP Physics** • Chemistry
-- Study skills & SAT/ACT math
+[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
 
-[Subjects & Rates](/subjects) • [About](/about) • [Book a consult](/contact)
+## **Why parents choose me**
+- Two decades mentoring students at UNC-Chapel Hill
+- Structured plans with measurable progress
+- After-session recap (parents included)  
 
-<p>
-  <a class="btn" href="{{ '/rates' | relative_url }}">Rates & availability</a>
-  <a class="btn" href="{{ '/about' | relative_url }}">About</a>
-  <a class="btn" href="{{ '/contact' | relative_url }}">Contact</a>
-</p>
+## **What students get**
+- Clear, patient explanations; minimal jargon
+- Strategies for tests, not just answers
+- Actionable study plans for the week ahead
 
-foo
+## **How sessions work**
+1. Student shares current topic/curriculum
+2. Quick diagnostics → find the gaps  
+3. Plan → weekly goals + checklist  
+4. Teach → step-by-step method + practice  
+5. Recap → short summary + targeted problems
 
-[Rates & availability]({{ '/rates' | relative_url }}){: .btn }
-[About]({{ '/about' | relative_url }}){: .btn }
-[Contact]({{ '/contact' | relative_url }}){: .btn }
+## **Location**
+Online Videoconferencing or in-person for the Research Triangle area of North Carolina (**Note**: 20% surcharge for travel).
 
-bah
+[Book a free 15-min consult]({{ '/calendar-parents' | relative_url }}) or email **[{{ site.contact_email }}](mailto:{{ site.contact_email }})**.
+
 

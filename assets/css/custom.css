@@ -1,3 +1,26 @@
-.page-content .btn{ color:#0366d6; border-color:#036616;}
-.page-content .btn:hover{ background:#0366d6; color:#fff; }
+
+/* BODY buttons (keep) */
+.page-content .btn{
+  color:#0366d6;            /* blue text */
+  border:2px solid #0366d6; /* blue border */
+  padding:.5rem .8rem;
+}
+.page-content .btn:hover{
+  background:#0366d6;
+  color:#fff;
+}
+
+/* HEADER buttons (make visible on dark banner) */
+.page-header .btn{
+  display:inline-block;
+  margin:.25rem .35rem;
+  color:#fff;
+  border:2px solid rgba(255,255,255,.9);
+  padding:.5rem .8rem;
+  background:transparent;
+  text-decoration:none;
+}
+.page-header .btn:hover{
+  background:rgba(12,255,255,.18);
+}
 

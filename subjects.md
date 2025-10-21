@@ -1,11 +1,25 @@
 ---
 layout: default
-title: Subjects & Rates
+title: Subjects
 permalink: /subjects/
 ---
 
+[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
 
-**Math:** Algebra -> Calculus 
-**Rates:** $X/hr • 4-session bundle (-10%) • 10-session bundle (-15%)
+## **What I tutor (STEAM)**
+- **Science:** Biology, Chemistry, Physics
+- **Technology:** Programming (python), Software Development, Project Management
+- **Engineering:** Electronics, Instrumentation, Robotics
+- **Arts:** English, Writing/Composition, Editing/Revising
+- **Math:** Algebra I–II, Geometry, Precalculus, Calculus AB/BC  
+
+## **Soft Skills**
+- **Test-taking:** SAT/ACT math, AP exam prep
+- **Time Management/Strategies:**
+  * "What do I focus on?"
+  * "How much time should I spend?"
+- **Building Confidence**
+- **Planning for College**
+
 
 
