@@ -1,0 +1,24 @@
+@media (prefers-color-scheme: dark){
+  :root{ color-scheme: dark; }
+  body{ background:#0b0d10; color:#e6e8eb; }
+  a{ color:#8ab4f8; }
+  .site-footer{ color:#9aa0a6; }
+  /* Cayman banner */
+  .page-header{ background:#0f3d3a; }
+  .project-name,.project-tagline{ color:#fff; }
+  /* Buttons */
+  .page-header .btn{ color:#fff; border-color:#fff; }
+  .page-header .btn:hover{ background:rgba(255,255,255,.18); }
+  .page-content .btn{ color:#8ab4f8; border:2px solid #8ab4f8; }
+  .page-content .btn:hover{ background:#8ab4f8; color:#0b0d10; }
+  /* Code blocks */
+  pre,code{ background:#111418; color:#e6e8eb; }
+}
+
+/* Force dark when toggled */
+:root[data-theme="dark"]{
+  color-scheme: dark;
+}
+:root[data-theme="dark"] body{ background:#0b0d10; color:#e6e8eb; }
+:root[data-theme="dark"] a{ color:#8ab4f8; }
+/* repeat key dark rules as above, prefixed with :root[data-theme="dark"] … */
