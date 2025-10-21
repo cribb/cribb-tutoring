@@ -1,0 +1,24 @@
+---
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% include head.html %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+<!--
+      <a class="btn" href="{{ '/about'    | relative_url }}">About</a>
+      <a class="btn" href="{{ '/calendar/'| relative_url }}">Calendar</a>
+      <a class="btn" href="{{ '/subjects' | relative_url }}">Subjects & Rates</a>
+      <a class="btn" href="{{ '/contact'  | relative_url }}">Contact</a>
+    -->
+    </header>
+    <main class="page-content"><div class="wrapper">{{ content }}</div></main>
+    {% include footer.html %}
+  </body>
+</html>
