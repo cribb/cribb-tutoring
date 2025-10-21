@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Calendar
-permalink: /calendar/
+title: Teaching Philosopy
+permalink: /philosophy/
 ---
 
-# Teaching philosopy
+## Teaching philosopy
