@@ -1,3 +1,13 @@
+.headshot{
+  float:right;
+  width:200px;               /* tweak size */
+  margin:1rem 0.5rem 1rem 1rem;   /* space from text */
+  border-radius:8px;         /* optional: rounded */
+}
+
+@media (max-width:300px){
+  .headshot{ float:none; display:block; margin:0 auto 1rem; }
+}
 
 /* BODY buttons (keep) */
 .page-content .btn{

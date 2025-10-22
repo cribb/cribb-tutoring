@@ -16,10 +16,10 @@ title: Cribb Tutoring
 - Actionable study plans for the week ahead
 
 ## **How sessions work**
-1. Student shares current topic/curriculum
+1. Before session, student shares current topic/curriculum
 2. Quick diagnostics → find the gaps  
-3. Plan → weekly goals + checklist  
-4. Teach → step-by-step method + practice  
+3. Teach → step-by-step method + practice  
+4. Plan → weekly goals + checklist  
 5. Recap → short summary + targeted problems
 
 ## **Location**

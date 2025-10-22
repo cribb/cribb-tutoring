@@ -10,7 +10,9 @@ permalink: /subjects/
 - **Science:** Biology, Chemistry, Physics
 - **Technology:** Programming (python), Software Development, Project Management
 - **Engineering:** Electronics, Instrumentation, Robotics
-- **Arts:** English, Writing/Composition, Editing/Revising
+- **Arts (Writing):** Creative, Non-fiction, Essays
+  * Composition
+  * Editing/Revising
 - **Math:** Algebra I–II, Geometry, Precalculus, Calculus AB/BC  
 
 ## **Soft Skills**
