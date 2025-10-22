@@ -5,6 +5,12 @@
   border-radius:8px;         /* optional: rounded */
 }
 
+.top-links{ margin: .75rem 0; font-size:0.95rem }
+.top-links a{ color:var(--link); text-decoration:none }
+.top-links a:hover{ text-decoration:underline }
+.top-links a.active{ font-weight:600 }
+
+
 @media (max-width:300px){
   .headshot{ float:none; display:block; margin:0 auto 1rem; }
 }
