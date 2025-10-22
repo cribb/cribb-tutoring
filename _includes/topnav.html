@@ -1,0 +1,8 @@
+<nav class="top-links">
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url | relative_url }}"
+       class="{% if page.url == item.url %}active{% endif %}">
+       {{ item.title }}
+    </a>{% unless forloop.last %} &bull; {% endunless %}
+  {% endfor %}
+</nav>
