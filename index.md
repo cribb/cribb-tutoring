@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cribb Tutoring
+image: /assets/social-card.png
 ---
 
 ## **Why parents choose me**

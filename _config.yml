@@ -12,4 +12,4 @@ area: Triangle, NC
 repository: cribb/tutoring-site
 url: https://cribb.github.io
 baseurl: "/cribb-tutoring"
-
+logo: /assets/social-card.png   # used by jekyll-seo-tag
