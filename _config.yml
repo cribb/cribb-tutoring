@@ -10,6 +10,6 @@ timezone: America/New_York
 contact_email: cribb.tutoring@gmail.com
 area: Triangle, NC
 repository: cribb/tutoring-site
-url: http://localhost:4000
-baseurl: ""
+url: https://cribb.github.io
+baseurl: "/cribb-tutoring"
 
