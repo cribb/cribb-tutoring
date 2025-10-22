@@ -3,8 +3,6 @@ layout: default
 title: Cribb Tutoring
 ---
 
-[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
-
 ## **Why parents choose me**
 - Two decades mentoring students at UNC-Chapel Hill
 - Structured plans with measurable progress

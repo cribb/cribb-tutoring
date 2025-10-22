@@ -4,8 +4,6 @@ title: Cribb Tutoring
 permalink: /about
 ---
 
-[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
-
 ## **About Me**
 
 I'm **Jeremy Cribb, PhD**, a biomedical engineer, research scientist, and longtime student mentor. For over twenty years, I designed custom microscopy, built bioinstrumentation, and developed novel assays at the University of North Carolina at Chapel Hill. I've authored multiple publications about biomaterials such as mucus and hyaluronan. During my time at UNC, I mentored more than a hundred students in an ever-active biophysics lab environment.

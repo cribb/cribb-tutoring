@@ -4,8 +4,6 @@ title: Rates & Terms
 permalink: /rates
 ---
 
-[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
-
 ## **Rates & Terms**
 
 - **$60/hr** (one-on-one). 

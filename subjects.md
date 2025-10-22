@@ -4,8 +4,6 @@ title: Subjects
 permalink: /subjects/
 ---
 
-[Home](/index) • [About](/about) • [Subjects](/subjects) •  [Rates](/rates) • [Book a consult](/calendar-parents)
-
 ## **What I tutor (STEAM)**
 - **Science:** Biology, Chemistry, Physics
 - **Technology:** Programming (python), Software Development, Project Management
