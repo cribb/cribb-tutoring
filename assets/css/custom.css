@@ -1,17 +1,25 @@
-.top-links{ margin: 0.75rem 0; font-size:0.95rem }
+
+.page-header {
+   color: #fff; 
+   text-align: center;
+   background-color: #159957; 
+   background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+.top-links{ margin:3rem 0.5rem; font-size:0.95rem }
 .top-links a{ color:var(--link); text-decoration:none }
 .top-links a:hover{ text-decoration:underline }
 .top-links a.active{ font-weight:600 }
 
-.headshot{
-  float:right;
-  width:200px;               /* tweak size */
-  margin:1rem 0.5rem 1rem 1rem;   /* space from text */
-  border-radius:8px;         /* optional: rounded */
+@media screen and (min-width: 64em) { 
+  .page-header { padding: 5rem 6rem 0.5rem; }
 }
-
-@media (max-width:300px){
-  .headshot{ float:none; display:block; margin:0 auto 1rem; }
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header { padding: 3rem 4rem 0.5rem; } 
+}
+@media screen and (max-width: 42em) {
+  .page-header { padding: 2rem 1rem 0.5rem; } 
+  .top-links { font-size: 0.85rem }
 }
 
 /* HEADER buttons (make visible on dark banner) */
@@ -37,4 +45,15 @@
 .page-content .btn:hover{
   background:#0366d6;
   color:#fff;
+}
+
+.headshot{
+  float:right;
+  width:200px;               /* tweak size */
+  margin:1rem 0.5rem 1rem 1rem;   /* space from text */
+  border-radius:8px;         /* optional: rounded */
+}
+
+@media (max-width:300px){
+  .headshot{ float:none; display:block; margin:0 auto 1rem; }
 }
