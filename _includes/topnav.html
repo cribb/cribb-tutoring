@@ -3,6 +3,6 @@
     <a href="{{ item.url | relative_url }}"
        class="{% if page.url == item.url %}active{% endif %}">
        {{ item.title }}
-    </a>{% unless forloop.last %} &bull; {% endunless %}
+    </a>{% unless forloop.last %} &nbsp; &bull; &nbsp; {% endunless %}
   {% endfor %}
 </nav>
