@@ -25,5 +25,3 @@ image: /assets/social-card.png
 Online Videoconferencing or in-person for the Research Triangle area of North Carolina (**Note**: 20% surcharge for travel).
 
 [Book a free 15-min consult]({{ '/calendar-parents' | relative_url }}) or email **[{{ site.contact_email }}](mailto:{{ site.contact_email }})**.
-
-
