@@ -22,6 +22,6 @@ image: /assets/social-card.png
 5. Recap → short summary + targeted problems
 
 ## **Location**
-Online Videoconferencing or in-person for the Research Triangle area of North Carolina (**Note**: 20% surcharge for travel).
+Online Videoconferencing or in-person for the Research Triangle area of North Carolina (see [Rates](rates) for details).
 
 [Book a free 15-min consult]({{ '/calendar-parents' | relative_url }}) or email **[{{ site.contact_email }}](mailto:{{ site.contact_email }})**.

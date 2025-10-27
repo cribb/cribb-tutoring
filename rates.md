@@ -8,7 +8,7 @@ permalink: /rates
 
 - Online or in-person ({{ site.area }}).
 - Weekday evenings/weekends (US East Coast). 
-- Rates **$60/hr (online)**; in-person +25%.
+- Rates **$75/hr (in-person)**; online -20%.
 - Bundles available at a discount (paid up-front)
 - Payment schedule:
 
