@@ -6,7 +6,7 @@
    background-image: linear-gradient(120deg, #155799, #159957);
 }
 
-.top-links{ margin:3rem 0.5rem; font-size:0.95rem }
+.top-links{ margin:3rem 0.5rem 0.75rem; font-size:0.95rem }
 .top-links a{ color:var(--link); text-decoration:none }
 .top-links a:hover{ text-decoration:underline }
 .top-links a.active{ font-weight:600 }
