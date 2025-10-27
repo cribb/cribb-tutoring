@@ -1,3 +1,8 @@
+.top-links{ margin: 0.75rem 0; font-size:0.95rem }
+.top-links a{ color:var(--link); text-decoration:none }
+.top-links a:hover{ text-decoration:underline }
+.top-links a.active{ font-weight:600 }
+
 .headshot{
   float:right;
   width:200px;               /* tweak size */
@@ -5,25 +10,8 @@
   border-radius:8px;         /* optional: rounded */
 }
 
-.top-links{ margin: .75rem 0; font-size:0.95rem }
-.top-links a{ color:var(--link); text-decoration:none }
-.top-links a:hover{ text-decoration:underline }
-.top-links a.active{ font-weight:600 }
-
-
 @media (max-width:300px){
   .headshot{ float:none; display:block; margin:0 auto 1rem; }
-}
-
-/* BODY buttons (keep) */
-.page-content .btn{
-  color:#0366d6;            /* blue text */
-  border:2px solid #0366d6; /* blue border */
-  padding:.5rem .8rem;
-}
-.page-content .btn:hover{
-  background:#0366d6;
-  color:#fff;
 }
 
 /* HEADER buttons (make visible on dark banner) */
@@ -40,3 +28,13 @@
   background:rgba(12,255,255,.18);
 }
 
+/* BODY buttons (keep) */
+.page-content .btn{
+  color:#0366d6;            /* blue text */
+  border:2px solid #0366d6; /* blue border */
+  padding:.5rem .8rem;
+}
+.page-content .btn:hover{
+  background:#0366d6;
+  color:#fff;
+}
