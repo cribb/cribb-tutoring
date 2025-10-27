@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Subjects
-permalink: /subjects/
+permalink: /subjects
 ---
 
 ## **What I tutor (STEAM)**

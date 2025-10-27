@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policies
-permalink: /policies/
+permalink: /policies
 ---
 
 # **Policies**
@@ -30,7 +30,7 @@ permalink: /policies/
 
 ### Communication
 - Quick email recap after each session (parents cc’d for minors).
-- I reply to emails ASAP (usually within **1 business day**).
+- I reply to emails within **1 business day**.
 - Families provide textbooks and/or course curriculum.
 - I can supply practice sets and references.
 - The pace and progress of sessions depends on constructive feedback from parent _and_ student. It's essential!

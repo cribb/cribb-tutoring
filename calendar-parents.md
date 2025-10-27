@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schedule a consult
-permalink: /calendar-parents/
+permalink: /calendar-parents
 ---
 
 -
