@@ -10,7 +10,7 @@ permalink: /policies/
 
 ### Payment
 - **Payment is due immediately following each session.**
-- I will nvoice through the payment platform (Paypal/Venmo).
+- I will invoice through the payment platform (Paypal/Venmo).
 - Packages are prepaid and do not expire for 12 months.
 - Unused package hours are **refundable** (at purchase price).
 - Rate changes are announced **30 days** in advance; existing packages honor the rate at time of purchase.
