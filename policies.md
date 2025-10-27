@@ -6,7 +6,7 @@ permalink: /policies/
 
 # **Policies**
 
-[Payment](#Payment) • [Scheduling](#Scheduling) • [Academic Integrity](#Academic-Integrity) • [Communication](#Communication) • [Safety & Privacy](#safety--privacy) • 
+[Payment](#payment) • [Scheduling](#scheduling) • [Academic Integrity](#academic-integrity) • [Communication](#communication) • [Safety & Privacy](#safety--privacy)
 
 ### Payment
 - **Payment is due immediately following each session.**
