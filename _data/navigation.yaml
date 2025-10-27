@@ -2,11 +2,11 @@
   url: /
 - title: About
   url: /about
-- title: Policies
-  url: /policies
 - title: Subjects
   url: /subjects
 - title: Rates
   url: /rates
+- title: Policies
+  url: /policies
 - title: Book a consult
   url: /calendar-parents
